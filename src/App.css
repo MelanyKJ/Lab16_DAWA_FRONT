@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Indie+Flower&display=swap');
+body{
+  background-color:rgba(202, 181, 46, 0.747);
+}
+
+.navbar__title{
+  display: block;
+  font-weight: 700;
+  font-size: 2.5em;
+  text-shadow: 5px 5px 10px lightseagreen;
+}
+
+.titulo{
+  text-align: center;
+  color: rgb(193, 80, 49);
+  text-transform: capitalize !important;
+}
+
+.autor{
+  text-align: center;
+  text-align: justify;
+}
+
+.parrafo{
+  text-align: center;
+  text-align: justify;
+}
